@@ -9,7 +9,7 @@
 <!-- <div align=center> -->
 
   [![Blog Badge](http://img.shields.io/badge/-Blog-blueviolet?style=flat-square&logo=gatsby&link=https://ellismin.com)](https://ellismin.com)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ellismin.dev@gmail.com)](mailto:ellismin.dev@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ellismin.dev@gmail.com)](mailto:ellismin.dev@gmail.com)
 
 </div>
 
