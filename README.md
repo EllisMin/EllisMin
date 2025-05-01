@@ -1,8 +1,8 @@
 <!-- <div align=center> -->
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEllisMin)](https://github.com/ellismin)
+  <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEllisMin)](https://github.com/ellismin) -->
   
-</div>
+<!-- </div> -->
 
 ### Hi there 👋
 
